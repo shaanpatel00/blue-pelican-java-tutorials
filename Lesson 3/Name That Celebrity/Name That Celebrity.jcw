@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Name That Celebrity</label>
+	</settings>
+	<users>
+		<user>
+			<path>Name That Celebrity.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Name That Celebrity.jcp</path>
+		</project>
+	</projects>
+</workspace>
